@@ -1,0 +1,12 @@
+1. Download reference PDB. The downloaded pdb should be in the main folder, named dna_0.pdb.
+2. Import the downloaded pdb into vmd.
+3. Save each frame as its own gro file in "references" folder.
+
+If the MD trjs are not in gro and trr files, then convert the trj to those files. 
+1. Open cms and load traj dtr file in vmd
+2. Save gro file with “first frame” and “last frame” using the same # and stride remains as 1. 
+3. Gro file name should be “1.gro”
+4. Save trr file with “first frame” as 0 and “last frame” as “100
+5. Trr file name should be “1.trr”
+
+Run trj_scoring and align scripts.

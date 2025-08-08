@@ -1,0 +1,4 @@
+1. Extract AF3 zip file here
+2. Load PDB downloaded pdb file to VMD. Same each frame separately as dna_0_0.pdb, dna_0_1.pdb, etc. to the reference folder. Keep the downloaded PDB in this folder and change the file name to dna_0.pdb
+3. Run convert shell: ./convert.sh
+4. Run scoring shell: ./scoring.sh
