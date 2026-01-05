@@ -1,0 +1,17 @@
+[{
+ "name": "1xue",
+ "modelSeeds": [
+  "59488265"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GTGGAATGCAATGGAAC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
