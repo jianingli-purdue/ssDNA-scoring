@@ -1,0 +1,17 @@
+[{
+ "name": "1en1",
+ "modelSeeds": [
+  "937385310"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GTCCCTGTTCGGGCGCCA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
