@@ -1,0 +1,17 @@
+[{
+ "name": "2KYP",
+ "modelSeeds": [
+  "985628549"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CGGGCGGGCGCTAGGGAGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
