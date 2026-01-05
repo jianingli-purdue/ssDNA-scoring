@@ -1,0 +1,17 @@
+[{
+ "name": "1NGU",
+ "modelSeeds": [
+  "932435767"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CTCTCCTTGTATTTCTTACAAAAAGAG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
