@@ -1,0 +1,17 @@
+[{
+ "name": "2LO5",
+ "modelSeeds": [
+  "1008810152"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGCCGCAGTGCC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
