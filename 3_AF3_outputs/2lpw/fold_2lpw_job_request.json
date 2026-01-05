@@ -1,0 +1,17 @@
+[{
+ "name": "2LPW",
+ "modelSeeds": [
+  "1109152777"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AAGGGTGGGTGTAAGTGTGGGTGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
