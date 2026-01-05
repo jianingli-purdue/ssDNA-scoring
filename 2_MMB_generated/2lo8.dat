@@ -1,0 +1,31 @@
+calcEnergy True
+#sequence 
+DNA A 1 GCCGCAGTGC
+
+# stages
+firstStage 1 
+lastStage 1
+
+#general simulation parameters
+# This is a multiplying factor for the baseInteraction forces:
+baseInteractionScaleFactor     100000
+reportingInterval 1.0
+
+temperature 30
+
+
+#nucleicAcidDuplex A 1 6 A 30 25 
+## all the commented pairing are CC pairing found in i motifs
+baseInteraction A 4 WatsonCrick A 10 WatsonCrick Cis
+baseInteraction A 5 WatsonCrick A 9 WatsonCrick Cis
+
+
+
+#contact AllHeavyAtomSterics A FirstResidue LastResidue
+
+randomizeInitialVelocities TRUE
+
+# Turn on MD forces (incl. electrostatic and Lennard Jones forces)
+setDefaultMDParameters
+
+
