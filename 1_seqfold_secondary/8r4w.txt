@@ -1,0 +1,3 @@
+   0    8   -1.5  STACK_DE:TG/AC 
+   1    7   -1.3  STACK:GA/CT    
+   2    6    4.0  HAIRPIN:AG/TG  

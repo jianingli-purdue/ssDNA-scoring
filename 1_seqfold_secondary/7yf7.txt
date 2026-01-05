@@ -1,0 +1,2 @@
+   0    6   -1.2  STACK_DE:AT/TA 
+   1    5    4.0  HAIRPIN:TT/AT  

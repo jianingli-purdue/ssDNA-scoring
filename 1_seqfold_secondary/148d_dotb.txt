@@ -1,0 +1,6 @@
+Sequence: GGTTGGTGTGGTTGG
+Dot-bracket: .............()
+ΔG = -inf kcal/mol
+
+Substructures (i  j  ddG  description):
+  13   14   -inf                 

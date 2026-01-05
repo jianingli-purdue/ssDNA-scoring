@@ -1,0 +1,5 @@
+   0   16   -2.4  STACK_DE:GG/CC 
+   1   15   -3.3  STACK:GGC/CGG  
+   3   13   -1.8  STACK:CC/GG    
+   4   12   -2.3  STACK:CTG/GTC  
+   6   10    3.5  HAIRPIN:GG/CC  

@@ -1,0 +1,6 @@
+Sequence: AGGGCGGTGTGGGAATAGGGAA
+Dot-bracket: ...............(....).
+ΔG = 1600.0 kcal/mol
+
+Substructures (i  j  ddG  description):
+  15   20 1600.0                 
