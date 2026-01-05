@@ -1,0 +1,17 @@
+[{
+ "name": "1OZ8",
+ "modelSeeds": [
+  "360001508"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGAGGAGGAGGAGGAGGAGGAGGA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
