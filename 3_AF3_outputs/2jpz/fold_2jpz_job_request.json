@@ -1,0 +1,17 @@
+[{
+ "name": "2JPZ",
+ "modelSeeds": [
+  "23395909"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTAGGGTTAGGGTTAGGGTTAGGGTT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
