@@ -1,0 +1,7 @@
+Sequence: TGAGGGTGGGTAGGGTGGGTAA
+Dot-bracket: ..........((.......)).
+ΔG = 3.1 kcal/mol
+
+Substructures (i  j  ddG  description):
+  10   20   -0.6  STACK:TA/AT    
+  11   19    3.7  HAIRPIN:AG/TG  

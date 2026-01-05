@@ -1,0 +1,2 @@
+   0    6   -3.4  STACK:GC/CG    
+   1    5    5.4  HAIRPIN:CG/GA  

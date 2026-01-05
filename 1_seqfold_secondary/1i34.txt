@@ -1,0 +1,2 @@
+   8   17   -1.5  STACK:CA/GT    
+   9   16    3.5  HAIRPIN:AG/TT  

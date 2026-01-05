@@ -1,0 +1,2 @@
+   9   20   -1.0  STACK:TT/AA    
+  10   19    4.0  HAIRPIN:TG/AG  

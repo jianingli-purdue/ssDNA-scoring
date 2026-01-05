@@ -1,0 +1,6 @@
+   1   15   -2.2  STACK:CG/GC    
+   2   14   -2.2  STACK:GC/CG    
+   3   13   -2.2  STACK:CG/GC    
+   4   12   -1.3  STACK:GA/CT    
+   5   11   -1.0  STACK:AA/TT    
+   6   10    2.5  HAIRPIN:AG/TA  

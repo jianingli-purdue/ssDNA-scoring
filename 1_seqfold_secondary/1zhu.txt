@@ -1,0 +1,2 @@
+   2    8   -0.9  STACK:AT/TA    
+   3    7    2.5  HAIRPIN:TG/AA  

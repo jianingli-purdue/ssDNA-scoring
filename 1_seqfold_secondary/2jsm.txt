@@ -1,0 +1,2 @@
+   0    7   -0.6  STACK_DE:TA/AT 
+   1    6    3.0  HAIRPIN:AG/TT  

@@ -1,0 +1,2 @@
+   0    7   -1.4  STACK_DE:AA/TT 
+   1    6    3.0  HAIRPIN:AA/TG  

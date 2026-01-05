@@ -1,0 +1,2 @@
+   3    9   -2.5  STACK_DE:GC/CG 
+   4    8    3.5  HAIRPIN:CA/GT  

@@ -1,0 +1,9 @@
+   0   26   -1.3  STACK:CT/GA    
+   1   25   -1.3  STACK:TC/AG    
+   2   24   -1.3  STACK:CT/GA    
+   3   23    2.5  INTERIOR_LOOP:3/3
+   6   20   -1.0  STACK:TT/AA    
+   7   19   -1.5  STACK:TG/AC    
+   8   18   -1.5  STACK:GT/CA    
+   9   17   -0.6  STACK:TA/AT    
+  10   16    2.6  HAIRPIN:AA/TA  
