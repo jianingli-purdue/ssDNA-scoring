@@ -1,0 +1,23 @@
+[{
+ "name": "1XAV",
+ "modelSeeds": [
+  "489163367"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGAGGGTGGGTAGGGTGGGTAA",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
