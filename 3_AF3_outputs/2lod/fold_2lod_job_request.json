@@ -1,0 +1,17 @@
+[{
+ "name": "2LOD",
+ "modelSeeds": [
+  "871326623"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGATGGGACACAGGGGACGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
