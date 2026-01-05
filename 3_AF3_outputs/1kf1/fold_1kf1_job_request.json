@@ -1,0 +1,23 @@
+[{
+ "name": "1KF1",
+ "modelSeeds": [
+  "1407332377"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
