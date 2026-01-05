@@ -1,0 +1,17 @@
+[{
+ "name": "1I34",
+ "modelSeeds": [
+  "488431620"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGTTTTGGCAGGGTTTTGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
