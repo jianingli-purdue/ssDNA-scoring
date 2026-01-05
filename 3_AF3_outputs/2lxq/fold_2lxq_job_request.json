@@ -1,0 +1,17 @@
+[{
+ "name": "2LXQ",
+ "modelSeeds": [
+  "125261653"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TAGGGTGGGTTGGGTGGGGAAT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
