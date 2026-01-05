@@ -1,0 +1,17 @@
+[{
+ "name": "2LO8",
+ "modelSeeds": [
+  "207421880"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCCGCAGTGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
