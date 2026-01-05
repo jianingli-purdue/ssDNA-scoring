@@ -1,0 +1,17 @@
+[{
+ "name": "1ecu",
+ "modelSeeds": [
+  "1115873100"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCGCGAAACTGTTTCGCGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
