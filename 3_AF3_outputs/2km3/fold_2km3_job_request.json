@@ -1,0 +1,17 @@
+[{
+ "name": "2KM3",
+ "modelSeeds": [
+  "1713361744"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGCTAGGGCTAGGGCTAGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
