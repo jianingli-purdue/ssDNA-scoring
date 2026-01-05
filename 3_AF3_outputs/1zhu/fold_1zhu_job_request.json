@@ -1,0 +1,17 @@
+[{
+ "name": "1ZHU",
+ "modelSeeds": [
+  "747783148"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CAATGCAATG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
