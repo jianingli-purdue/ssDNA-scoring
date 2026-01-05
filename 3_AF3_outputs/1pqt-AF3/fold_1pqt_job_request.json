@@ -1,0 +1,17 @@
+[{
+ "name": "1pqt",
+ "modelSeeds": [
+  "611182697"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCGAAGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
