@@ -1,0 +1,17 @@
+[{
+ "name": "2M6W",
+ "modelSeeds": [
+  "951444678"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGGTTGGGGTTTTGGGGAAGGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
