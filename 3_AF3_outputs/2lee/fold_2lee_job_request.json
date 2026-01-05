@@ -1,0 +1,17 @@
+[{
+ "name": "2LEE",
+ "modelSeeds": [
+  "1778541554"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TAGGGCGGGAGGGAGGGAA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
