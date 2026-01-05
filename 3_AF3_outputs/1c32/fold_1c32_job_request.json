@@ -1,0 +1,17 @@
+[{
+ "name": "1C32",
+ "modelSeeds": [
+  "1320204188"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGTTGGTGTGGTTGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
