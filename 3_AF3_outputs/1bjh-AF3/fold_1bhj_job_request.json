@@ -1,0 +1,17 @@
+[{
+ "name": "1bhj",
+ "modelSeeds": [
+  "609794174"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GTACAAAGTAC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
