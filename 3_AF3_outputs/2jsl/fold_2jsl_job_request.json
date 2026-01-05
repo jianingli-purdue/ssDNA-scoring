@@ -1,0 +1,17 @@
+[{
+ "name": "2JSL",
+ "modelSeeds": [
+  "797014217"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TAGGGTTAGGGTTAGGGTTAGGGTT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
