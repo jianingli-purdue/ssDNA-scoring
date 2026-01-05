@@ -1,0 +1,17 @@
+[{
+ "name": "1kr8",
+ "modelSeeds": [
+  "1400471680"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCGAAGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
