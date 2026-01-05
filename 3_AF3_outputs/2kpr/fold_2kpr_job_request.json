@@ -1,0 +1,17 @@
+[{
+ "name": "2KPR",
+ "modelSeeds": [
+  "2047441441"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTGGGGAAGGGGTGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
