@@ -1,0 +1,17 @@
+[{
+ "name": "2KF8",
+ "modelSeeds": [
+  "1070791219"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTTAGGGTTAGGGTTAGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
