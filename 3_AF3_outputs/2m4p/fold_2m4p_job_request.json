@@ -1,0 +1,17 @@
+[{
+ "name": "2M4P",
+ "modelSeeds": [
+  "191075215"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTGTGGTGGGTGGGTGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
