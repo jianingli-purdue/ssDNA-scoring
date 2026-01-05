@@ -1,0 +1,17 @@
+[{
+ "name": "1JVE",
+ "modelSeeds": [
+  "1861198800"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CCTAATTATAACGAAGTTATAATTAGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
