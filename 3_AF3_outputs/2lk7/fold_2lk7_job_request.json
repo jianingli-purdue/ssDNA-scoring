@@ -1,0 +1,17 @@
+[{
+ "name": "2LK7",
+ "modelSeeds": [
+  "647052884"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTGGGTGGGTGGGTGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
