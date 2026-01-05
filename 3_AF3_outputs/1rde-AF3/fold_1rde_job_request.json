@@ -1,0 +1,17 @@
+[{
+ "name": "1rde",
+ "modelSeeds": [
+  "113708164"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGTTGGTGTGGTTGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
