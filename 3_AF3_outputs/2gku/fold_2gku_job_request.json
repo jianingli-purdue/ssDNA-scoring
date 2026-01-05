@@ -1,0 +1,17 @@
+[{
+ "name": "2GKU",
+ "modelSeeds": [
+  "1922222186"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTGGGTTAGGGTTAGGGTTAGGGA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
