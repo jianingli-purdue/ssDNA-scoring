@@ -1,0 +1,17 @@
+[{
+ "name": "2K71",
+ "modelSeeds": [
+  "1986989314"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCGAAAGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
