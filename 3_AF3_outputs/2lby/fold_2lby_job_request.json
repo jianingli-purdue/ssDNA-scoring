@@ -1,0 +1,17 @@
+[{
+ "name": "2LBY",
+ "modelSeeds": [
+  "1344254251"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TAGGGAGGGTAGGGAGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
