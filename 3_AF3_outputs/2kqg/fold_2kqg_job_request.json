@@ -1,0 +1,23 @@
+[{
+ "name": "2KQG",
+ "modelSeeds": [
+  "321920758"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CGGGCGGGCACGAGGGAGGGT",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
