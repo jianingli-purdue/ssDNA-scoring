@@ -1,0 +1,17 @@
+[{
+ "name": "1EZN",
+ "modelSeeds": [
+  "838473757"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CGTGCACCCGCTTGCGGCGACTTGTCGTTGTGCACG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
