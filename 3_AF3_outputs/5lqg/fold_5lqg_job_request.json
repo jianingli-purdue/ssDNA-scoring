@@ -1,0 +1,17 @@
+[{
+ "name": "5LQG",
+ "modelSeeds": [
+  "292645123"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TAGGGTTAGGGTTAGGGTTAGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
