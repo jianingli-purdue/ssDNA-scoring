@@ -1,0 +1,23 @@
+[{
+ "name": "5I2V",
+ "modelSeeds": [
+  "1804564268"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGCGGTGTGGGAATAGGGAA",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
