@@ -1,0 +1,17 @@
+[{
+ "name": "2MS9",
+ "modelSeeds": [
+  "386964140"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGGTGGTGGTGGTTGTGGTGGTGGTGTT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
