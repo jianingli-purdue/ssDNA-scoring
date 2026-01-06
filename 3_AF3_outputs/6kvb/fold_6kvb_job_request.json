@@ -1,0 +1,17 @@
+[{
+ "name": "6KVB",
+ "modelSeeds": [
+  "227177443"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGGTGGTGGTGGTTGTGGTGGTGGTTGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
