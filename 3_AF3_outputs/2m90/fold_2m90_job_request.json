@@ -1,0 +1,17 @@
+[{
+ "name": "2M90",
+ "modelSeeds": [
+  "575554819"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCGCGAAGCATTCGCGGGGAGGTGGGGAAGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
