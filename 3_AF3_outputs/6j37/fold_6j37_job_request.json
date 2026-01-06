@@ -1,0 +1,23 @@
+[{
+ "name": "6J37",
+ "modelSeeds": [
+  "1066270253"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CTTGCTTG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "NA",
+    "count": 7
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
