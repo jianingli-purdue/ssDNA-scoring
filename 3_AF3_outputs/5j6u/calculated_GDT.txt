@@ -1,0 +1,11 @@
+native:  0  streamline:  3  max score:   0.875
+native:  1  streamline:  2  max score:   0.792
+native:  2  streamline:  3  max score:   0.875
+native:  3  streamline:  4  max score:   0.792
+native:  4  streamline:  4  max score:   0.792
+native:  5  streamline:  3  max score:   0.708
+native:  6  streamline:  3  max score:   0.792
+native:  7  streamline:  0  max score:   0.792
+native:  8  streamline:  3  max score:   0.750
+native:  9  streamline:  2  max score:   0.792
+native:  10  streamline:  2  max score:   0.750
