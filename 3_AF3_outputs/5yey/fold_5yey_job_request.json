@@ -1,0 +1,17 @@
+[{
+ "name": "5YEY",
+ "modelSeeds": [
+  "1547458290"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTTAGGGTTAGGGTTTGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
