@@ -1,0 +1,17 @@
+[{
+ "name": "6GZN",
+ "modelSeeds": [
+  "1767072835"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTAGGGAGCGGGAGAGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
