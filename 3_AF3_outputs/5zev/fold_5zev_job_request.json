@@ -1,0 +1,17 @@
+[{
+ "name": "5ZEV",
+ "modelSeeds": [
+  "1857639293"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTACCCGGGTGAGGTGCGGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
