@@ -1,0 +1,17 @@
+[{
+ "name": "6JCD",
+ "modelSeeds": [
+  "456047314"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGGTTGTGGTTTGGTGTTGGTGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
