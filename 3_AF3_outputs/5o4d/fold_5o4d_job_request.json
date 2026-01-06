@@ -1,0 +1,17 @@
+[{
+ "name": "5O4D",
+ "modelSeeds": [
+  "659322046"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTAGGGCAGGGGACACAGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
