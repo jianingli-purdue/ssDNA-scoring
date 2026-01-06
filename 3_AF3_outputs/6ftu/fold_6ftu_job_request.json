@@ -1,0 +1,23 @@
+[{
+ "name": "6FTU",
+ "modelSeeds": [
+  "1711318504"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGGGAGGGGTACAGGGGTACAGGGG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

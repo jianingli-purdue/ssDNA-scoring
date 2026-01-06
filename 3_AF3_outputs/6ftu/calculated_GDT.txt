@@ -1,0 +1,1 @@
+native:  0  streamline:  1  max score:   0.960
