@@ -1,0 +1,23 @@
+[{
+ "name": "6IP3",
+ "modelSeeds": [
+  "881136619"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGTTAGGGTTAGGGTTAGGG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
