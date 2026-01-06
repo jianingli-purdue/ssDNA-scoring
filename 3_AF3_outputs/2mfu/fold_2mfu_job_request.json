@@ -1,0 +1,17 @@
+[{
+ "name": "2MFU",
+ "modelSeeds": [
+  "2031016437"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGGGTTTGGGTTGGGTTTGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
