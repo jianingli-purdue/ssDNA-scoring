@@ -1,0 +1,17 @@
+[{
+ "name": "7D5F",
+ "modelSeeds": [
+  "651877973"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGTGTGTGTGTGTGTGTGGTGGTGGTG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
