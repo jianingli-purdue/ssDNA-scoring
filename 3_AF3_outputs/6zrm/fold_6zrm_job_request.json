@@ -1,0 +1,17 @@
+[{
+ "name": "6ZRM",
+ "modelSeeds": [
+  "382498354"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGGGAGGGAGCGGGAGTGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
