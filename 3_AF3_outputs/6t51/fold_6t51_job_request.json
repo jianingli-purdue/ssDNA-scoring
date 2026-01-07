@@ -1,0 +1,23 @@
+[{
+ "name": "6T51",
+ "modelSeeds": [
+  "1247070441"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGCGGTGTGGGAATAGGGAA",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
