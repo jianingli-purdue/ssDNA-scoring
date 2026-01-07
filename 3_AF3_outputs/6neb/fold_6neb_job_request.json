@@ -1,0 +1,17 @@
+[{
+ "name": "6NEB",
+ "modelSeeds": [
+  "1690556881"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTGGGGAGGGTTTTAAGGGTGGGGAAT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
