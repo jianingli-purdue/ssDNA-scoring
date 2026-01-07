@@ -1,0 +1,17 @@
+[{
+ "name": "7KBV",
+ "modelSeeds": [
+  "118550908"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGAGGGTGGGTAGGGTGGGGAA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
