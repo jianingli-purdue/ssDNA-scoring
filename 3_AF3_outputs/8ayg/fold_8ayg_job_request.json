@@ -1,0 +1,17 @@
+[{
+ "name": "8AYG",
+ "modelSeeds": [
+  "2017707127"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TATCCCCACACCCCTATCCCCACACCCCTAT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
