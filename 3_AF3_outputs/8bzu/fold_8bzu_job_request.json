@@ -1,0 +1,17 @@
+[{
+ "name": "8BZU",
+ "modelSeeds": [
+  "1677281134"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGCTTAGGCTTAGGCTTAGGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
