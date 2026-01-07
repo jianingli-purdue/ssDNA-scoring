@@ -1,0 +1,17 @@
+[{
+ "name": "7BFX",
+ "modelSeeds": [
+  "1334866976"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGCAATCCCCCCGGATTGCT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
