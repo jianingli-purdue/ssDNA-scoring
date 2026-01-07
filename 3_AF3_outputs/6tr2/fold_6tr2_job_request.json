@@ -1,0 +1,17 @@
+[{
+ "name": "6TR2",
+ "modelSeeds": [
+  "1326438827"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TAGGGTTAGGGTTAGGGTTAGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
