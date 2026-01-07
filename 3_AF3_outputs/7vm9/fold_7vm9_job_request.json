@@ -1,0 +1,23 @@
+[{
+ "name": "7VM9",
+ "modelSeeds": [
+  "32093457"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CTTTGCTTTG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "NA",
+    "count": 9
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
