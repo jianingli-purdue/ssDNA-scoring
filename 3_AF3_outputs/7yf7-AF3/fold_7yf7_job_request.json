@@ -1,0 +1,17 @@
+[{
+ "name": "7yf7",
+ "modelSeeds": [
+  "1053365292"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "ATTTTATTTT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
