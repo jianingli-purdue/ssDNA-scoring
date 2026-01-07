@@ -1,0 +1,29 @@
+[{
+ "name": "6W9P",
+ "modelSeeds": [
+  "2095666054"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GTTGGGGTTGGGGTTGGGGTTGGGGT",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 3
+   }
+  },
+  {
+   "ion": {
+    "ion": "NA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
