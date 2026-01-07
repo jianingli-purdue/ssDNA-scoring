@@ -1,0 +1,17 @@
+[{
+ "name": "8BM6",
+ "modelSeeds": [
+  "1140650195"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CGAGCGAGCGAGCGAAAGCACGAACGAGCGAGCGAG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
