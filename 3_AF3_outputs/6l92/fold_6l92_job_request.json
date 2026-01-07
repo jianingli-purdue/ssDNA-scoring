@@ -1,0 +1,17 @@
+[{
+ "name": "6L92",
+ "modelSeeds": [
+  "901503748"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGCCACCGGGCAGTGGGCGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
