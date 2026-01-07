@@ -1,0 +1,23 @@
+[{
+ "name": "7QB3",
+ "modelSeeds": [
+  "1399871068"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CGGCCGTCGAAGACCCGCGAAGTGGCCG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "FE",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
