@@ -1,0 +1,23 @@
+[{
+ "name": "7OQT",
+ "modelSeeds": [
+  "1832391539"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGCTTAGGCTTAGGCTTAGG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
