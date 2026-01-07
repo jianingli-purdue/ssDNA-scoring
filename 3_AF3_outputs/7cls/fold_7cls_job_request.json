@@ -1,0 +1,17 @@
+[{
+ "name": "7CLS",
+ "modelSeeds": [
+  "1220670632"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTGGATCTGAGAATCAGATGTGGGTGGGTGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
