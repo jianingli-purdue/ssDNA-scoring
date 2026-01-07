@@ -1,0 +1,17 @@
+[{
+ "name": "6R8E",
+ "modelSeeds": [
+  "673773247"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GTGTGTGGGTGTGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
