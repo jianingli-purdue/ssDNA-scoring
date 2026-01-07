@@ -1,0 +1,23 @@
+[{
+ "name": "7ALU",
+ "modelSeeds": [
+  "1695705114"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGAGGTGTGGCCTGGGCGGG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
