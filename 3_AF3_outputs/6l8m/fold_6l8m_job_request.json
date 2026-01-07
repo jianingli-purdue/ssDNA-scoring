@@ -1,0 +1,17 @@
+[{
+ "name": "6L8M",
+ "modelSeeds": [
+  "447678234"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTCACCGGGCAGTGGGCGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
