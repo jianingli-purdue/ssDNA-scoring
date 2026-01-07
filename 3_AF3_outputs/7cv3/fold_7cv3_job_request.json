@@ -1,0 +1,17 @@
+[{
+ "name": "7CV3",
+ "modelSeeds": [
+  "1949578076"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCGGGAGGGCGCGCCAGCGGGGTCGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
