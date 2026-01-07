@@ -1,0 +1,17 @@
+[{
+ "name": "6ZTE",
+ "modelSeeds": [
+  "280157149"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GATCAGTTTTACTGATCGGGTGGTGGGTGGGGAAGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
