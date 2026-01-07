@@ -1,0 +1,23 @@
+[{
+ "name": "7VCK",
+ "modelSeeds": [
+  "1502294273"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGCCTGGGCCTG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "NA",
+    "count": 10
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
