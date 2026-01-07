@@ -1,0 +1,52 @@
+{
+ "chain_iptm": [
+  0.63,
+  0.63,
+  0.63
+ ],
+ "chain_pair_iptm": [
+  [
+   null,
+   null,
+   0.63
+  ],
+  [
+   null,
+   null,
+   0.63
+  ],
+  [
+   0.63,
+   0.63,
+   0.4
+  ]
+ ],
+ "chain_pair_pae_min": [
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   1.31,
+   1.31,
+   0.8
+  ]
+ ],
+ "chain_ptm": [
+  null,
+  null,
+  0.4
+ ],
+ "fraction_disordered": 0.0,
+ "has_clash": 0.0,
+ "iptm": 0.64,
+ "num_recycles": 10.0,
+ "ptm": 0.44,
+ "ranking_score": 0.6
+}

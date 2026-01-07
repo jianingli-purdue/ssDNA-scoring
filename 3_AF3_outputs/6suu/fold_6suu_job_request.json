@@ -1,0 +1,23 @@
+[{
+ "name": "6SUU",
+ "modelSeeds": [
+  "328619573"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGCGGTTTGGGAAGAGGGAAGAGGGGGAGG",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
