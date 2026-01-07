@@ -1,0 +1,23 @@
+[{
+ "name": "7JKU",
+ "modelSeeds": [
+  "2014763952"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GTTGGGGTTGGGGTTGGGGTTGGGGT",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 4
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
