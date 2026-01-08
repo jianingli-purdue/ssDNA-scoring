@@ -1,0 +1,17 @@
+[{
+ "name": "9UK8",
+ "modelSeeds": [
+  "1247619015"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGGCCGGGGCCGGGGCCGGGGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
