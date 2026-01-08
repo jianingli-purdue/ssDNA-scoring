@@ -1,0 +1,17 @@
+[{
+ "name": "8JIC",
+ "modelSeeds": [
+  "1774812015"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TAGGGTTAGGGTTAGGGTTAGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
