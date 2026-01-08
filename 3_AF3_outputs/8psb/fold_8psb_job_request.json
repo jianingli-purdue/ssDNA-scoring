@@ -1,0 +1,17 @@
+[{
+ "name": "8PSB",
+ "modelSeeds": [
+  "185695097"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AGGGTAGGGCGGCGGGGACGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
