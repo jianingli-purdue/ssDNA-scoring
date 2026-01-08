@@ -1,0 +1,19 @@
+# This file was created Mon Nov 24 11:40:10 2025
+# Created by:
+#                        :-) GROMACS - gmx rms, 2024 (-:
+# 
+# Executable:   /home/shi631/local/bin/gmx
+# Data prefix:  /home/shi631/local
+# Working dir:  /home/shi631/Public/11-aptmer/100case_AF3/148d
+# Command line:
+#   gmx rms -s native.pdb -f model.pdb -n index_dnaheavy.ndx -o rmsd_DNA_heavy.xvg -fit rot+trans
+# gmx rms is part of G R O M A C S:
+#
+# Giant Rising Ordinary Mutants for A Clerical Setup
+#
+@    title "RMSD"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "RMSD (nm)"
+@TYPE xy
+@ subtitle "heavy_DNA after lsq fit to heavy_DNA"
+   0.0000000          inf

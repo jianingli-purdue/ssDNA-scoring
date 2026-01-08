@@ -1,0 +1,17 @@
+[{
+ "name": "148D",
+ "modelSeeds": [
+  "905794633"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGTTGGTGTGGTTGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
