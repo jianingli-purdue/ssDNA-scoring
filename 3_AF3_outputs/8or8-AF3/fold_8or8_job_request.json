@@ -1,0 +1,17 @@
+[{
+ "name": "8or8",
+ "modelSeeds": [
+  "482557963"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CGCCGGGGTCGAAGACTGCCAGCGGCTCGACGGCG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
