@@ -1,0 +1,17 @@
+[{
+ "name": "8PSI",
+ "modelSeeds": [
+  "944219462"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGTAGGGCGGCGGGGCAGGGT",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
