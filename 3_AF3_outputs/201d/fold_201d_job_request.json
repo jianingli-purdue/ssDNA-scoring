@@ -1,0 +1,17 @@
+[{
+ "name": "201D",
+ "modelSeeds": [
+  "524254633"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGGTTTTGGGGTTTTGGGGTTTTGGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
