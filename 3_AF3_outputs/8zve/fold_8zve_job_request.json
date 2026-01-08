@@ -1,0 +1,17 @@
+[{
+ "name": "8ZVE",
+ "modelSeeds": [
+  "179539786"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TCTGGGCGGGCGAGGGCGGGAGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
