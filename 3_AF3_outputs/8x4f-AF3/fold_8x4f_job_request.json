@@ -1,0 +1,17 @@
+[{
+ "name": "8x4f",
+ "modelSeeds": [
+  "1781985202"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GCTGCTGCTGCTGC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
