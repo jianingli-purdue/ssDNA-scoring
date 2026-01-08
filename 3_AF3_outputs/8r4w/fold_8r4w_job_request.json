@@ -1,0 +1,17 @@
+[{
+ "name": "8R4W",
+ "modelSeeds": [
+  "1371048717"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGAGGGTCAGGGTTGGGTTGGGTAA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
