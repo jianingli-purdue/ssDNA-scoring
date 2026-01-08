@@ -1,0 +1,17 @@
+[{
+ "name": "8XGP",
+ "modelSeeds": [
+  "123163955"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGGCCTGGGCCTGGGCCTGGG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
