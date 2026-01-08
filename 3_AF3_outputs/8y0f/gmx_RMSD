@@ -1,0 +1,5 @@
+gmx confrms -f1 native_DNA_heavy.pdb -f2 model_DNA_heavy.pdb -o fitted_DNA_heavy.pdb
+
+gmx confrms -f1 native_noH.pdb -f2 model.pdb -o fitted_DNA_heavy.pdb > AF3RMSD.txt
+
+gmx confrms -f1 native.pdb -f2 model.pdb -o fitted_DNA_heavy.pdb

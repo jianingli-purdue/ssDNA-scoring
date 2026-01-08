@@ -1,0 +1,17 @@
+[{
+ "name": "8Y0F",
+ "modelSeeds": [
+  "15182224"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "ATCTAACTGCTGCGCCGCCGGGAAAATACTGTACGGTTAGA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
